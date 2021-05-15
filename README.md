@@ -1,6 +1,6 @@
 # Stack Exchange Data Analysis
-## Database
 In this projects, I will explore the question post data of Stack Exchange Data Science. It is accessible via their Data Explorer by writing SQL queries.
+Codes and presentation are in jupyter notebook file "stack-exchange-data-analysis.csv"
 
 ## Files
 "2019_questions.csv" - All question posts in 2019
